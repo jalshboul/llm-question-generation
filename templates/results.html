@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <title>Results</title>
+</head>
+<body>
+  <h1>Generated Questions and Answers</h1>
+  <a href="/">&#8592; Back</a>
+  {% if error %}
+  <p style="color:red">{{ error }}</p>
+  {% endif %}
+  {% if code_error %}
+  <p style="color:orange">Code analysis: {{ code_error }}</p>
+  {% endif %}
+  {% for qa, scores in data %}
+    <div style="margin-bottom:20px;">
+      <strong>Q{{ loop.index }}: {{ qa.question }}</strong><br>
+      <em>A{{ loop.index }}: {{ qa.answer }}</em>
+      {% if scores %}
+      <ul>
+        <li>Relevance: {{ scores.Relevance }}</li>
+        <li>Clarity and Coherence: {{ scores.Clarity_and_Coherence }}</li>
+        <li>Conciseness: {{ scores.Conciseness }}</li>
+        <li>Coverage: {{ scores.Coverage }}</li>
+      </ul>
+      {% endif %}
+    </div>
+  {% endfor %}
+</body>
+</html>

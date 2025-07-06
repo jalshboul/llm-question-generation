@@ -1,0 +1,23 @@
+# Core dependencies
+Flask>=2.2.0
+openai>=1.0.0
+
+# For code evaluation and syntax checking
+astunparse>=1.6.3
+
+# Optional: For C++/Java syntax checking (system dependencies)
+# g++
+# javac
+
+# For HTML rendering
+Jinja2>=3.1.2
+
+# For environment variable management (if using .env)
+python-dotenv>=1.0.0
+
+# For data processing and plotting (if used in src/plots.py)
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Testing (optional)
+pytest>=7.0.0

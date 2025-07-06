@@ -1,0 +1,28 @@
+name,department,birth,title
+Ken Lay,UM,19430507,C
+Jeff Skilling,UM,19550606,VC
+Richard Fuld,UM,19600403,CEO
+Joe Gregory,UM,19800205,COO
+Ian Lowitt,UM,19550404,CFO
+Scott Freidheim,UM,19400910,CAO
+Jack Nickolson,UM,19370422,P
+Marlon Brando,UM,19240403,VP
+Kevin Spacey Fowler,UM,19590726,CTO
+Robert De Niro,F,19430817,SMAN
+Al Pacino,F,19400425,SMAN
+Daniel Day-Lewis,M,19570429,SMAN
+Tom Hanks,M,19560709,SMAN
+Tim Honks,F,19560709,MAN
+Antony Hopkins,F,19371231,SMAN
+Paul Newman,O6,19250126,SARCH
+Michael Caine,O6,19330314,SARCH
+Robin Williams,O5,19510721,SARCH
+Robert Duvall,O6,19310105,SRARCH
+Morgan Freeman,O6,19370601,SRARCH
+Jeff Bridges,O5,19491204,SRARCH
+Clint Eastwood,O6,19300531,SRDEV
+Philip Seymour Hoffman,O6,19670723,SRDEV
+Ben Kingsley,O5,19431231,SRDEV
+Leonardo DiCaprio,O6,19741111,JRDEV
+Clark Gable,O5,19010201,JRDEV
+Ian McKellen,F,19390525,INT

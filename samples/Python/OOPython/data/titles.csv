@@ -1,0 +1,27 @@
+id,name,base salary
+C,Chairman,1000000
+VC,Vice Chairman,800000
+BM,Board member,750000
+CEO,Chief Executive Officer,700000
+COO,Chief Operating Officer,650000
+CFO,Chief Financial Officer,650000
+CTO,Chief Technology Officer,650000
+CDO,Chief Data Officer,650000
+CMO,Chief Marketing Officer,650000
+CAO,Chief Administrative Officer,650000
+P,President,600000
+EVP,Executive Vice President,580000
+SVP,Senior Vice President,560000
+VP,Vice President,550000
+AVP,Assistant Vice President,500000
+SDIR,Senior Director,400000
+ADIR,Assistant Director,350000
+SMAN,Senior Manager,350000
+MAN,Manager,200000
+MMAN,Middle Manager,150000
+SARCH,Solution Architect,200000
+SRARCH,Senior Architect,150000
+ARCH,Architect,125000
+SRDEV,Senior Developer,120000
+JRDEV,Junior Developer,100000
+INT,Intern,20000
