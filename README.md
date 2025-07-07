@@ -55,7 +55,7 @@ The Flask web application provides a clean and minimal interface for interactive
 
 ```
 +---------------------------------------------------------------+
-|                    Code Q&A Generator                        |
+|                    Code Q&A Generator                         |
 +---------------------------------------------------------------+
 | Programming Language: [ Python ▼ ]                            |
 | Number of questions: [ 5 ]                                    |
@@ -63,10 +63,10 @@ The Flask web application provides a clean and minimal interface for interactive
 | Paste code:                                                   |
 | [---------------------------------------------------------]   |
 | |                                                         |   |
-| |   <textarea rows="10" cols="80">                      |   |
+| |   <textarea rows="10" cols="80">                        |   |
 | |                                                         |   |
 | [---------------------------------------------------------]   |
-| Or upload file: [ Choose File ]                              |
+| Or upload file: [ Choose File ]                               |
 |                                                               |
 |                [ Generate ]                                   |
 +---------------------------------------------------------------+
